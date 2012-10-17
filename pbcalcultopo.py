@@ -665,7 +665,7 @@ class Myframe(wx.Frame):
 
     def About(self, evt):
 
-        description = "Calcul Topométrique ( Python 2.7, wxPython )"
+        description = u"Calcul Topométrique ( Python 2.7, wxPython )"
        
         info = wx.AboutDialogInfo()
 
